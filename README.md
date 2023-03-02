@@ -1,1 +1,1 @@
-# CPE231 DATABASE SYSTEMS
+# CPE231 Database Systems
